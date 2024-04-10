@@ -24,8 +24,6 @@ Spanning the southern portion of the San Francisco Bay Area, cities in Silicon V
 
 ## TOP SILICON VALLEY TECH COMPANIES YOU SHOULD KNOW
 
-
-
 - Spotnana
 - Nuro
 - Tempus
