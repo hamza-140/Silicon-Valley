@@ -7,7 +7,6 @@ Spanning the southern portion of the San Francisco Bay Area, cities in Silicon V
 
 ## LARGEST TECH COMPANIES IN SILICON VALLEY
 
-
 - Apple
 - Hewlett Packard
 - Google
