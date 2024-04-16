@@ -1,4 +1,3 @@
-
 # Silicon Valley Companies to Watch This Year
 
 As the world’s tech powerhouse, Silicon Valley embodies more than a geographic location. It’s the amalgamation of some of our most powerful ideas, carving its name into the interior of our global economy. The region has planted some of the most profitable seeds of intellect and transformation we've ever seen. Since the ascent of the Hewlett Packard Enterprise, widely regarded as the “birth of Silicon Valley,” the area's population has grown tremendously. Today, millions of people call the region home, as tech companies continue to monopolize on the area’s overwhelming brainpower. 
