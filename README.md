@@ -5,7 +5,6 @@ As the world’s tech powerhouse, Silicon Valley embodies more than a geographic
 Spanning the southern portion of the San Francisco Bay Area, cities in Silicon Valley encompass many of the world’s tech leaders. While Cupertino houses Apple’s headquarters, Mountain View boasts Googleplex. In Redwood City, Oracle and Box lead the competition, while San Jose plays host to tech giants like Cisco and Adobe. And as new startups continue to multiply, the region will add more names to its long list of world-renowned tech residents.
 
 ## LARGEST TECH COMPANIES IN SILICON VALLEY
-
 - Apple
 - Hewlett Packard
 - Google
