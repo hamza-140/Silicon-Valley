@@ -15,7 +15,7 @@ Spanning the southern portion of the San Francisco Bay Area, cities in Silicon V
 - Broadcom
 - Adobe
 - eBay
-## TOP SILICON VALLEY TECH COMPANIES YOU SHOULD KNOW
+## TOP SILICON VALLEY TECH COMPANIES YOU SHOULD KNOW ABOUT
 - Spotnana
 - Nuro
 - Tempus
